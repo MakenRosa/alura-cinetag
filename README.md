@@ -1,6 +1,8 @@
 # Cinetag
 
-Este é um projeto desenvolvido durante o curso "React" da Alura. No curso, foram abordados conhecimentos abrangentes sobre o desenvolvimento de aplicações utilizando a biblioteca JavaScript React. Durante o curso, os seguintes tópicos foram abordados:
+Este é um projeto desenvolvido durante o curso "React: praticando React com Js" da Alura. (8 horas, Concluído)
+
+No curso, foram abordados conhecimentos abrangentes sobre o desenvolvimento de aplicações utilizando a biblioteca JavaScript React. Durante o curso, os seguintes tópicos foram abordados:
 
 - Iniciar um projeto React utilizando o Create React App.
 - Construir componentes e páginas utilizando React.
