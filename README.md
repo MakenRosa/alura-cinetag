@@ -12,7 +12,7 @@ No curso, foram abordados conhecimentos abrangentes sobre o desenvolvimento de a
 - Aprender a consumir APIs para obter e exibir dados dinamicamente na aplicação.
 - Realizar o deploy do projeto na plataforma de hospedagem Vercel.
 
-**[Acesse aqui o Cinetag pelo Vercel](https://alura-cinetag-theta.vercel.app/)**
+**[Acesse aqui o Cinetag pelo Vercel](https://cinetag-aug.vercel.app/)**
 
 ## Como clonar o repositório
 
