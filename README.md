@@ -12,7 +12,7 @@ No curso, foram abordados conhecimentos abrangentes sobre o desenvolvimento de a
 - Aprender a consumir APIs para obter e exibir dados dinamicamente na aplicação.
 - Realizar o deploy do projeto na plataforma de hospedagem Vercel.
 
-**[Acesse aqui o Alura-Cinetag pelo Vercel](https://alura-cinetag-theta.vercel.app/)**
+**[Acesse aqui o Cinetag pelo Vercel](https://alura-cinetag-theta.vercel.app/)**
 
 ## Como clonar o repositório
 
@@ -27,7 +27,7 @@ Siga as etapas abaixo para clonar este repositório e executar o projeto em sua 
 4. Execute o seguinte comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/makenrosa/alura-cinetag.git
+git clone https://github.com/makenrosa/cinetag.git
 ```
 
 5. Após o término do processo de clonagem, você terá uma cópia local do repositório em seu computador.
@@ -145,6 +145,6 @@ Certifique-se de que todos esses arquivos e diretórios estejam presentes corret
 
 Este é um projeto desenvolvido como parte de um curso da Alura e, portanto, não é aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork deste repositório e personalizá-lo conforme suas necessidades.
 
-Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/alura-cinetag/issues) neste repositório.
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/cinetag/issues) neste repositório.
 
 Aproveite o projeto! Se tiver alguma dúvida, não hesite em entrar em contato.
